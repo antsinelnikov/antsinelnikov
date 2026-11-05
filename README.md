@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello there, I'm Antony
 
-<!--
-**antsinelnikov/antsinelnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year student at Bauman Moscow State Technical University
 
-Here are some ideas to get you started:
+I study Computer Science and Computer Engineering, specializing in **Artificial Intelligence Systems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Building my skills in programming and computer science.
+- Interested in artificial intelligence and how it can solve real-world problems.
+- Interested in robotics and high-level programming.
+- Using GitHub to share my learning journey, coursework, and personal projects.
+
+### Stack 
+- C++, C#
+- Python (Django, numpy, pandas)
+- C++ for MCU (Arduino, ESP)
+- Python (openCV, YOLO)
+- Web-technologes
+
+## My Repositories
+
+Here you'll find projects and exercises that reflect what I'm learning. This profile will grow as I gain experience and explore new topics.
